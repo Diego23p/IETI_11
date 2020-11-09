@@ -1,6 +1,6 @@
 # Build your first App - Android
 
-Contruir una app Android básica.
+Construir una app Android básica.
 
 ## Codigo de honor:
 Debes seguir el Código de honor del ingeniero de sistemas para defender el estándar de integridad académica de la ECI:
